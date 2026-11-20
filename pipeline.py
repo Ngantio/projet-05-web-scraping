@@ -90,10 +90,10 @@ def main():
         load(df)
         logging.info(f"Load : données ajoutées dans {DB_PATH.name}")
         logging.info(f"=== Pipeline terminé en {time.time() - debut:.0f} secondes ===")
-        print("✅ Pipeline terminé avec succès")
+        print(" Pipeline terminé avec succès")
     except Exception as erreur:
         logging.error(f"Pipeline en échec : {erreur}")
-        print(f"❌ Pipeline en échec : {erreur}")
+        print(f" Pipeline en échec : {erreur}")
 
 
 if __name__ == "__main__":
