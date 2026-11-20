@@ -1,4 +1,4 @@
-# Projet 5 — Web Scraping & Pipeline de Données 🕷️
+# Projet 5 — Web Scraping & Pipeline de Données 
 
 ## Contexte
 Construction d'un **pipeline ETL complet et automatisé** : collecte de données sur un site web,
